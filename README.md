@@ -1,4 +1,4 @@
-# XYZ-Annual-Report-2022
+# XYZ-Store-Annual-Report-2022
 This repository contains the data and visualizations for the XYZ Store's Annual Report for 2022.
 
 Objective
